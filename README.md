@@ -124,7 +124,7 @@ Tablero de Trello
 
 ## 🔹 Prueba del proyecto mismo
 
-Ve al repositorio [trello-fork](https://github.com/DanielaBeltranCruz/trello-fork). Ahí se puede encontrar una modificación que se realizó al repositorio original [trello](https://github.com/norberteder/trello), se lanzan request a trello con un script que importa localmente el poryecto.
+Ve al repositorio [trello-fork](https://github.com/DanielaBeltranCruz/trello-fork). Ahí se puede encontrar una modificación que se realizó al repositorio original [trello](https://github.com/norberteder/trello), se lanzan request a trello con un script que importa localmente el proyecto.
 
 </details>
 
