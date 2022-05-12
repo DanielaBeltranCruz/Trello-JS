@@ -118,6 +118,13 @@ trello.addCard(cardTitle, "LaunchX Card Description", "6264e42be72d295e64f5c083"
 	});
 ```
 
+Tablero de Trello
+
 ![Tablero](https://github.com/DanielaBeltranCruz/Trello-JS/blob/master/images/api_rest_trello_7.PNG)
 
+## 🔹 Prueba del proyecto mismo
+
+Ve al repositorio [trello-fork](https://github.com/DanielaBeltranCruz/trello-fork). Ahí se puede encontrar una modificación que se realizó al repositorio original [trello](https://github.com/norberteder/trello), se lanzan request a trello con un script que importa localmente el poryecto.
+
 </details>
+
